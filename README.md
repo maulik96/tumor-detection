@@ -10,5 +10,7 @@ A subset of slides and their respective tumor masks from [CAMELYON16](https://ca
 ## Reference paper
 [Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)
 
+View the notebook [here](https://nbviewer.jupyter.org/github/maulik96/tumor-detection/blob/main/Tumor_detection.ipynb)
+
 ## Snapshot of results
 ![image](https://user-images.githubusercontent.com/16682366/125941704-20adf37c-5fe5-43b7-8ab8-45d1fce3d3e3.png)
